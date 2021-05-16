@@ -1,1 +1,1 @@
-WElcome
+WElcome to git and github Training
