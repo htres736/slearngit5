@@ -1,1 +1,2 @@
 We are learning git ammend
+making changes in visual studio code
